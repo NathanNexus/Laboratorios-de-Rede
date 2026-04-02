@@ -1,2 +1,16 @@
-# Laboratorios-de-Rede
-Repositório dedicado a laboratórios práticos de Redes de Computadores, com foco em configuração, troubleshooting e simulação de ambientes reais. Projetos desenvolvidos para demonstrar habilidades técnicas, raciocínio lógico e preparo para desafios do mercado de TI.
+# 👨‍💻 Portfólio — Redes de Computadores
+
+## Sobre mim
+Estudante de redes com foco em desenvolvimento prático.
+Laboratórios com configuração, troubleshooting e documentação de ambientes de rede.
+
+📧 nathanstudy.nexus@gmail.com | [LinkedIn](https://www.linkedin.com/in/nathannexus/)
+
+---
+
+## 🗂️ Projetos
+
+### 🔹 [Projeto 1 — Arquitetura de Redes](./ArquiteturadeRede/projeto1/)
+> Descrição curta do que foi feito, tecnologias usadas (ex: OSPF, VLANs, DHCP)
+
+---
