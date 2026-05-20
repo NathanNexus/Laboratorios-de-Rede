@@ -67,7 +67,3 @@ Interligar duas redes distintas (Matriz e Filial) através de um túnel PPTP, pe
 | VPC → Linux pelo túnel (192.168.1.200) | ✔ OK |
 
 ---
-
-## Estrutura do Repositório
-
-```
