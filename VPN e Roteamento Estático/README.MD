@@ -73,10 +73,7 @@ Interligar duas redes distintas (Matriz e Filial) através de um túnel PPTP, pe
 ```
 VPN-Roteamento-Estatico/
 ├── README.md
-├── Documentacao/
-│   └── Lab_VPN_Roteamento.pdf
-├── Topologia-EVE-NG/
-│   └── topologia_eve.png
-└── Topologia-DrawIO/
-    └── VPN_e_Roteamento_estatico.drawio
+├── Testes e Documentação.pdf
+├── Topologia EVE-NG.png
+└── Topologia Draw.io.png
 ```
