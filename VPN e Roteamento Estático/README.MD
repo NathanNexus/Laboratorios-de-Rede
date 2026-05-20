@@ -67,3 +67,16 @@ Interligar duas redes distintas (Matriz e Filial) através de um túnel PPTP, pe
 | VPC → Linux pelo túnel (192.168.1.200) | ✔ OK |
 
 ---
+
+## Estrutura do Repositório
+
+```
+VPN-Roteamento-Estatico/
+├── README.md
+├── Documentacao/
+│   └── Lab_VPN_Roteamento.pdf
+├── Topologia-EVE-NG/
+│   └── topologia_eve.png
+└── Topologia-DrawIO/
+    └── VPN_e_Roteamento_estatico.drawio
+```
